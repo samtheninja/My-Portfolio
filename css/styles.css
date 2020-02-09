@@ -1,12 +1,12 @@
 .big  {
   background-color: black;
   color: red;
-  text-align:center;
+  text-align:left;
   border-left: 200px solid red;
   border-right: 200px solid red;
 }
 .pic1 {
-  align-items: center;
+  align-items: left;
   width: auto;
   margin: 20px solid green; 
 }
@@ -15,6 +15,11 @@
   font-style: italic;
 }
 .big h2 {
-  color: white;
+  color: blue;
   font-size: large;
+}
+.bod4 {
+  text-align: right;
+  float: right;
+  color: blue;
 }
