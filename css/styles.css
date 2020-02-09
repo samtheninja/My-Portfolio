@@ -11,6 +11,14 @@
   border-left: solid red 200px;
   border-right: solid red 200px;
 }
-.line {
+.list1 {
+  background:black;
+  display: list-item;
+  vertical-align: middle;
   text-align: center;
+}
+.bod3 {
+  text-align: center;
+  list-style: inside;
+  display: inline;
 }
