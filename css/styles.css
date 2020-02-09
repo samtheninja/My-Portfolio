@@ -1,21 +1,11 @@
-.hed  {
-  text-align: center;
-  color: red;
-  font-size: larger;
-}
-h2 {
-  text-align: center;
-}
 .big  {
   background-color: black;
   color: red;
-  margin: 5px solid red;
-  border-left: 40px solid red;
-  border-right: 40px solid red;
-  text-align:center;
+  text-align:left;
 }
-.list1 {
-  text-align: center;
-  list-style: inside;
+.pic1 {
+  float: right;
+  width: auto;
+  max-width: 700px;
+  max-height: 700px;
 }
-
