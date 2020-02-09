@@ -1,24 +1,18 @@
 .hed  {
-  text-align: right;
+  text-align: center;
   color: red;
   font-size: larger;
 }
-.big {
+h2 {
   text-align: center;
-  color: red;
+}
+.big  {
   background-color: black;
-  margin: none;
-  border-left: solid red 200px;
-  border-right: solid red 200px;
+  color: red;
+  margin: 5px solid red;
+  border-left: 40px solid red;
+  border-right: 40px solid red;
+  text-align:center;
 }
-.list1 {
-  background:black;
-  display: list-item;
-  vertical-align: middle;
-  text-align: center;
-}
-.bod3 {
-  text-align: center;
-  list-style: inside;
-  display: inline;
-}
+
+
