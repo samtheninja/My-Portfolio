@@ -8,7 +8,7 @@
 ## Known Bugs
 {order and unordered list centering fail}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{html and css.}
 ## Support and contact details
 {contact at mr.s.n.mwaura@gmail.com.}
 ### License
