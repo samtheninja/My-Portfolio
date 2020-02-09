@@ -12,5 +12,5 @@
 ## Support and contact details
 {contact at mr.s.n.mwaura@gmail.com.}
 ### License
-*{none but this is my work dont steal it.}*
+*{none, but this is my work dont steal it.}*
 Copyright (c) {year} **{samtheninja.inc}**
