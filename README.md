@@ -6,7 +6,8 @@
 ## Setup/Installation Requirements
 *all you need is chrome.
 ## Known Bugs
-{order and unordered list centering fail}
+{order and unordered list centering fail.
+text align and foat fail.}
 ## Technologies Used
 {html and css.}
 ## Support and contact details
