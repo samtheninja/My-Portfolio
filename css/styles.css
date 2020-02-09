@@ -1,27 +1,43 @@
-.big  {
-  background-color: black;
-  color: red;
-  text-align:left;
-  border-left: 200px solid red;
-  border-right: 200px solid red;
-}
-.pic1 {
-  align-items: left;
-  width: auto;
-  margin: 20px solid green; 
-}
-.big p  {
-  color: green;
-  font-style: italic;
-}
-.big h2 {
-  color: blue;
-  font-size: large;
-  font-size: large;
-}
 .bod4 {
-  text-align: left;
-  float: left;
-  color: blue;
-  background-color: yellow;
+  margin: 5px solid green;
+  background-color: green;
+  color: orange;
+  font-size: x-large;
+
+} 
+#ink1 {
+  color: red;
+  font-style: italic;
+  font-size: x-large
+}
+.bod3 {
+  margin: 5px solid orange;
+  background-color: orange;
+  color: green;
+  font-size: x-large
+}
+.bod2 {
+  margin: 5px solid green;
+  background-color: green;
+  color: orange;
+  font-size: x-large
+}
+img {
+  float: right;
+}
+.hed3 {
+  font-style: italic;
+  font-size: x-large;
+}
+.bod1 {
+  margin: 5px solid red;
+  background-color: red;
+  color: green;
+  font-size: x-large;
+}
+.bod  {
+  margin: 5px solid dotted black;
+  background-color: blue;
+  color: yellow;
+  font-size: x-large;
 }
