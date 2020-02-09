@@ -20,7 +20,8 @@
   font-size: large;
 }
 .bod4 {
-  text-align: right;
-  float: right;
+  text-align: left;
+  float: left;
   color: blue;
+  background-color: yellow;
 }
