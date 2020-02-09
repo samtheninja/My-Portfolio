@@ -14,5 +14,8 @@ h2 {
   border-right: 40px solid red;
   text-align:center;
 }
-
+.list1 {
+  text-align: center;
+  list-style: inside;
+}
 
