@@ -7,5 +7,10 @@
   text-align: center;
   color: red;
   background-color: black;
-  
+  margin: none;
+  border-left: solid red 200px;
+  border-right: solid red 200px;
+}
+.line {
+  text-align: center;
 }
