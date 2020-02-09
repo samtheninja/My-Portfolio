@@ -1,11 +1,9 @@
 .big  {
   background-color: black;
   color: red;
-  text-align:left;
+  text-align:center;
 }
 .pic1 {
-  float: right;
-  width: auto;
-  max-width: 700px;
-  max-height: 700px;
+  align-items: center;
+  width: auto; 
 }
