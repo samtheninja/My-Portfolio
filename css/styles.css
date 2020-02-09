@@ -1,0 +1,12 @@
+.hed  {
+  text-align: right;
+  color: red;
+  font-size: larger;
+}
+.big {
+  text-align: center;
+  color: red;
+  background-color: black;
+  margin: none;
+  padding-left: 20% color red;
+}
