@@ -13,3 +13,7 @@
   color: green;
   font-style: italic;
 }
+.big h2 {
+  color: white;
+  font-size: large;
+}
