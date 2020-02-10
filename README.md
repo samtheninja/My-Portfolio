@@ -15,3 +15,6 @@ text align and foat fail.}
 ### License
 *{none, but this is my work dont steal it.}*
 Copyright (c) {year} **{samtheninja.inc}**
+
+### link
+*{https://samtheninja.github.io/My-Portfolio/.}
